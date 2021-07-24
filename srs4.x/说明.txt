@@ -1,0 +1,5 @@
+支持h265
+
+下载srs4.0.139版本
+
+替换 /trunk/src/kernel 下的  srs_kernel_codec.hpp  srs_kernel_codec.hpp 文件
