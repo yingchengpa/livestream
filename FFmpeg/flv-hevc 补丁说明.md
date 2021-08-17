@@ -1,3 +1,6 @@
+# 废弃
+切换到这个仓库 https://github.com/yingchengpa/FFmpeg-n4.3.2-flv-hevc
+
 # 在ffmpeg中支持hevc的rtmp协议
 
 当前阿里云，金山云等众多cdn，已经支持hevc编码的rtmp直播。
